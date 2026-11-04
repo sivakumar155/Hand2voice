@@ -1,4 +1,16 @@
-# AI-Based Assistive Communication Assistant
+# 🤝 Hand2Voice AI
+
+**Every Gesture Deserves to Be Heard.**
+
+**What if someone has something important to say but cannot express it through speech?**
+
+A simple request for water, asking for help, expressing pain, or saying "Thank you" can become difficult when spoken communication is not possible.
+
+That's the problem **Hand2Voice AI** aims to address.
+
+Hand2Voice is an AI-powered assistive communication system designed to help people who are non-speaking or have difficulty speaking express their everyday needs through simple hand gestures or a touch-based communication board.
+
+Our goal is simple: make everyday communication easier, more accessible and more inclusive.
 
 A Python prototype intended to help people who cannot speak or have difficulty speaking communicate basic needs. It offers:
 
